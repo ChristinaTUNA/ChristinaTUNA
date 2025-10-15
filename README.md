@@ -2,7 +2,7 @@
 
 🎓 Final-year **Computer Science student** passionate about **software development, AI, and real-world applications**  
 🤝 Actively seeking **internship opportunities** to apply my skills, grow as a developer, and contribute to impactful projects  
-💻 Currently working on my Final Year Project: **Smart Grocery Assistant with Real-Time Recipe Suggestions** 🛒 — helping users optimize grocery shopping with recipe recommendations and inventory tracking  
+💻 Currently working on my Final Year Project: **Smart Grocery Assistant** 🛒 — helping users optimize grocery shopping with recipe recommendations and inventory tracking  
 📚 Exploring **machine learning techniques** and **cloud deployment** for scalable applications  
 
 ---
